@@ -21,3 +21,4 @@ module ChelseaApp
     # config.i18n.default_locale = :de
   end
 end
+
